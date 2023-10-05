@@ -1,0 +1,15 @@
+.Contenido{
+    background-color: rgb(110, 110, 252);
+}
+.Rojo{
+    color: red;
+}
+.Imagen{
+    height: 120px;
+    width: 120px;
+}
+.Fondo{
+    color: white;
+    background-color: black;
+    margin-top: 150px;
+}
